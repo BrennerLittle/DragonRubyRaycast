@@ -1,3 +1,5 @@
+#https://github.com/3DSage/OpenGL-Raycaster_v1
+#I frogot to mention the source code is based on this repositiory and video you should give it a watch 
 $mapX = 8
 $mapY = 8
 $mapS = 64
